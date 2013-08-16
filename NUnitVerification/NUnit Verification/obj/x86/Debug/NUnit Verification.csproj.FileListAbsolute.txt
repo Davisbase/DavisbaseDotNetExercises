@@ -8,3 +8,11 @@ C:\Agile Engineering\Projects\NUnit Verification\NUnit Verification\bin\Debug\nu
 C:\Agile Engineering\Projects\NUnit Verification\NUnit Verification\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Agile Engineering\Projects\NUnit Verification\NUnit Verification\obj\x86\Debug\NUnit Verification.dll
 C:\Agile Engineering\Projects\NUnit Verification\NUnit Verification\obj\x86\Debug\NUnit Verification.pdb
+C:\Users\Kevin Klinemeier\Documents\GitHub\DavisbaseDotNetExercises\NUnitVerification\NUnit Verification\bin\Debug\nunit.framework.dll
+C:\Users\Kevin Klinemeier\Documents\GitHub\DavisbaseDotNetExercises\NUnitVerification\NUnit Verification\obj\x86\Debug\NUnit Verification.csprojResolveAssemblyReference.cache
+C:\Users\Kevin Klinemeier\Documents\GitHub\DavisbaseDotNetExercises\NUnitVerification\NUnit Verification\bin\Debug\nunit.mocks.dll
+C:\Users\Kevin Klinemeier\Documents\GitHub\DavisbaseDotNetExercises\NUnitVerification\NUnit Verification\bin\Debug\nunit.framework.xml
+C:\Users\Kevin Klinemeier\Documents\GitHub\DavisbaseDotNetExercises\NUnitVerification\NUnit Verification\bin\Debug\NUnitVerification.dll
+C:\Users\Kevin Klinemeier\Documents\GitHub\DavisbaseDotNetExercises\NUnitVerification\NUnit Verification\bin\Debug\NUnitVerification.pdb
+C:\Users\Kevin Klinemeier\Documents\GitHub\DavisbaseDotNetExercises\NUnitVerification\NUnit Verification\obj\x86\Debug\NUnitVerification.dll
+C:\Users\Kevin Klinemeier\Documents\GitHub\DavisbaseDotNetExercises\NUnitVerification\NUnit Verification\obj\x86\Debug\NUnitVerification.pdb

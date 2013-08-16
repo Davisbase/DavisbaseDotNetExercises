@@ -6,3 +6,13 @@ C:\Agile Engineering\Projects\MockFakeStubExamples\MockFakeStubExamples\bin\Rele
 C:\Agile Engineering\Projects\MockFakeStubExamples\MockFakeStubExamples\bin\Release\nunit.framework.xml
 C:\Agile Engineering\Projects\MockFakeStubExamples\MockFakeStubExamples\obj\Release\MockFakeStubExamples.dll
 C:\Agile Engineering\Projects\MockFakeStubExamples\MockFakeStubExamples\obj\Release\MockFakeStubExamples.pdb
+C:\Users\Kevin Klinemeier\Documents\GitHub\DavisbaseDotNetExercises\MockFakeStubExamples\MockFakeStubExamples\bin\Release\MockFakeStubExamples.dll
+C:\Users\Kevin Klinemeier\Documents\GitHub\DavisbaseDotNetExercises\MockFakeStubExamples\MockFakeStubExamples\bin\Release\MockFakeStubExamples.pdb
+C:\Users\Kevin Klinemeier\Documents\GitHub\DavisbaseDotNetExercises\MockFakeStubExamples\MockFakeStubExamples\bin\Release\nunit.framework.dll
+C:\Users\Kevin Klinemeier\Documents\GitHub\DavisbaseDotNetExercises\MockFakeStubExamples\MockFakeStubExamples\bin\Release\nunit.mocks.dll
+C:\Users\Kevin Klinemeier\Documents\GitHub\DavisbaseDotNetExercises\MockFakeStubExamples\MockFakeStubExamples\bin\Release\nunit.framework.xml
+C:\Users\Kevin Klinemeier\Documents\GitHub\DavisbaseDotNetExercises\MockFakeStubExamples\MockFakeStubExamples\obj\Release\MockFakeStubExamples.dll
+C:\Users\Kevin Klinemeier\Documents\GitHub\DavisbaseDotNetExercises\MockFakeStubExamples\MockFakeStubExamples\obj\Release\MockFakeStubExamples.pdb
+C:\Users\Kevin Klinemeier\Documents\GitHub\DavisbaseDotNetExercises\MockFakeStubExamples\MockFakeStubExamples\bin\Release\Moq.dll
+C:\Users\Kevin Klinemeier\Documents\GitHub\DavisbaseDotNetExercises\MockFakeStubExamples\MockFakeStubExamples\bin\Release\Moq.pdb
+C:\Users\Kevin Klinemeier\Documents\GitHub\DavisbaseDotNetExercises\MockFakeStubExamples\MockFakeStubExamples\bin\Release\Moq.xml

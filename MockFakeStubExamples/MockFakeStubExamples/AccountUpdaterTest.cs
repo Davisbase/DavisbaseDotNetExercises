@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using NUnit.Framework;
-using NUnit.Mocks;
+using Moq;
 
 namespace AgileEngineering
 {
@@ -37,6 +37,7 @@ namespace AgileEngineering
         }
 
         [Test]
+        [Ignore]
         public void testCommitTransactionCalled()
         {
             //STOP -- check with instructor before beginning this test~
@@ -45,14 +46,15 @@ namespace AgileEngineering
 
             //here's an example of creating the credit card service.  You'll need another thing just like this for
             //the account update.  These mocks will replace the stub code from the happyPathTest
-            DynamicMock mockCreditCardService = new DynamicMock(typeof (ICreditCardService));
+
+            Mock<ICreditCardService> mockCreditCardService = new Mock<ICreditCardService>();
             //some expectations
             int token = 42;
             String ccNum = "4324 3924 4382 3888";
             Decimal amount = 199.99M;
-            mockCreditCardService.ExpectAndReturn("ReserveFunds", token, new Object[2] { ccNum, amount });
-            mockCreditCardService.Expect("CommitTransaction", new Object[1] { token });
-            ICreditCardService creditCardServiceInstance = (ICreditCardService) mockCreditCardService.MockInstance;
+            mockCreditCardService.Setup(p => p.ReserveFunds(ccNum, amount)).Returns(token).Verifiable();
+            mockCreditCardService.Setup(p => p.CommitTransaction(token)).Verifiable();
+            ICreditCardService creditCardServiceInstance = mockCreditCardService.Object;
 
             //calls to the actual class under test goes here
             AccountUpdater au = new AccountUpdater(new StubBalanceService(), creditCardServiceInstance);

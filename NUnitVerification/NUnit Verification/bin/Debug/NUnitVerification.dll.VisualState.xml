@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1002]C:\Users\Kevin Klinemeier\Documents\GitHub\DavisbaseDotNetExercises\NUnitVerification\NUnit Verification\bin\Debug\NUnitVerification.dll</TopNode>
+  <SelectedNode>[0-1002]C:\Users\Kevin Klinemeier\Documents\GitHub\DavisbaseDotNetExercises\NUnitVerification\NUnit Verification\bin\Debug\NUnitVerification.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1002]C:\Users\Kevin Klinemeier\Documents\GitHub\DavisbaseDotNetExercises\NUnitVerification\NUnit Verification\bin\Debug\NUnitVerification.dll" Expanded="true" />
+    <Node UniqueName="[0-1003]NUnitTest1" Expanded="true" />
+    <Node UniqueName="[0-1000]NUnitTest1.MyQueueTestFixture" Expanded="true" />
+  </Nodes>
+</VisualState>
